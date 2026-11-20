@@ -2,6 +2,8 @@
 
 Zapline — The first fully integrated on-chain trading experience. Trade smarter, faster, safer.
 
+<img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/a7a6f21c-6055-4996-b6df-56ca62f87010" />
+
 ## Tech stack
 
 - [Next.js](https://nextjs.org/) (App Router) — React framework
