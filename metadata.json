@@ -1,0 +1,6 @@
+{
+  "name": "Zapline",
+  "description": "Zapline — The first fully integrated on-chain trading experience. Trade smarter, faster, safer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
